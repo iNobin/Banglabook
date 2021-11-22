@@ -1,0 +1,10 @@
+*{margin: 2.5px;}
+body{background: #10ff0f11;font-size: 12px;}
+.container{width: 97.5%; height: 970px; border: 1px solid black; margin-bottom: 10px;}
+h1,h2{text-align: center}
+.mainText{text-align: justify}
+.content{padding-top: 20px; text-align: justify}
+.kobita{text-align: center}
+.right{float: right;}
+.tdSecond{width: 50px; text-align: center}
+.tdFirst{width: 100px}
